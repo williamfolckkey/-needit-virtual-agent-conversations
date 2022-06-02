@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="DELETE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <autopilot_topic>false</autopilot_topic>
+        <category/>
+        <channels/>
+        <connect_queue/>
+        <description/>
+        <expose_on_palette>false</expose_on_palette>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{"graph_api_version":"1.0.39","variables":{"f03f88c45d7040b0bec8213bf888afac":{"id":"f03f88c45d7040b0bec8213bf888afac","name":"LiveAgent_application","value":{"mode":"simple","value":null},"varType":"script","category":"vaVars"}},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"5053983c220144a2bac5a5f62e0d468c":{"id":"5053983c220144a2bac5a5f62e0d468c","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"9bb08cb9563645bea25b594f76423e05":{"id":"9bb08cb9563645bea25b594f76423e05","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"97bbbbef831b4c5cbe58ede394102436","edgeType":"Edge","source":"5053983c220144a2bac5a5f62e0d468c","target":"9bb08cb9563645bea25b594f76423e05","sourcePort":"","targetPort":""}]}}}</graph>
+        <key_phrases>Update NeedIt Records</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <name>Update NeedIt Records</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <palette_label/>
+        <roles/>
+        <secure_custom_input_control>false</secure_custom_input_control>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 16:07:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>99035a9a2f3f81105cebd39df699b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update NeedIt Records</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_825654_needit_vi">4bb306da2ffb81105cebd39df699b62c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">4bb306da2ffb81105cebd39df699b62c</sys_scope>
+        <sys_update_name>sys_cb_topic_99035a9a2f3f81105cebd39df699b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 16:07:11</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>STANDARD</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="DELETE" query="document_key=99035a9a2f3f81105cebd39df699b638"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Virtual Agent Conversations">4bb306da2ffb81105cebd39df699b62c</application>
+        <file_path/>
+        <instance_id>60ce7afddb4fff80387021c405961920</instance_id>
+        <instance_name>dev90729</instance_name>
+        <name>sys_cb_topic_99035a9a2f3f81105cebd39df699b638</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic"><sys_cb_topic action="INSERT_OR_UPDATE"><applicability/><applicability_mode>query</applicability_mode><autopilot_topic>false</autopilot_topic><category/><channels/><connect_queue/><description/><expose_on_palette>false</expose_on_palette><flexible_conversation_switching>false</flexible_conversation_switching><graph>{"graph_api_version":"1.0.39","variables":{"f03f88c45d7040b0bec8213bf888afac":{"id":"f03f88c45d7040b0bec8213bf888afac","name":"LiveAgent_application","value":{"mode":"simple","value":null},"varType":"script","category":"vaVars"}},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"5053983c220144a2bac5a5f62e0d468c":{"id":"5053983c220144a2bac5a5f62e0d468c","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"9bb08cb9563645bea25b594f76423e05":{"id":"9bb08cb9563645bea25b594f76423e05","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"97bbbbef831b4c5cbe58ede394102436","edgeType":"Edge","source":"5053983c220144a2bac5a5f62e0d468c","target":"9bb08cb9563645bea25b594f76423e05","sourcePort":"","targetPort":""}]}}}</graph><key_phrases>Update NeedIt Records</key_phrases><library>false</library><live_agent>false</live_agent><name>Update NeedIt Records</name><nlu_intent/><nlu_intent_label/><nlu_model/><nlu_model_label/><nlu_provider/><palette_label/><roles/><secure_custom_input_control>false</secure_custom_input_control><source_topic_id/><sys_class_name>sys_cb_topic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-02 16:07:11</sys_created_on><sys_domain>global</sys_domain><sys_id>99035a9a2f3f81105cebd39df699b638</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update NeedIt Records</sys_name><sys_package display_value="NeedIt Virtual Agent Conversations" source="x_825654_needit_vi">4bb306da2ffb81105cebd39df699b62c</sys_package><sys_policy/><sys_scope display_value="NeedIt Virtual Agent Conversations">4bb306da2ffb81105cebd39df699b62c</sys_scope><sys_update_name>sys_cb_topic_99035a9a2f3f81105cebd39df699b638</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-02 16:07:11</sys_updated_on><triggerable_by_notification>false</triggerable_by_notification><type>STANDARD</type><variables/></sys_cb_topic><sys_variable_value action="delete_multiple" query="document_key=99035a9a2f3f81105cebd39df699b638"/></record_update>]]></payload>
+        <payload_hash>1257744106</payload_hash>
+        <record_name>Update NeedIt Records</record_name>
+        <reverted_from/>
+        <source>4fb306da2ffb81105cebd39df699b62e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 16:07:12</sys_created_on>
+        <sys_id>dd035a9a2f3f81105cebd39df699b64f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181252bbccf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 16:07:12</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>19035a9a463f8110e2cf92a44d95574f</update_guid>
+        <update_guid_history>19035a9a463f8110e2cf92a44d95574f:1257744106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 16:07:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic">sys_cb_topic</sys_db_object>
+        <sys_id>10dd87686089471aa8d2280bdb571f44</sys_id>
+        <sys_metadata>99035a9a2f3f81105cebd39df699b638</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update NeedIt Records</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_825654_needit_vi">4bb306da2ffb81105cebd39df699b62c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">4bb306da2ffb81105cebd39df699b62c</sys_scope>
+        <sys_scope_delete display_value="">24bf5a1d18e34c6c8717a6af477b7464</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_99035a9a2f3f81105cebd39df699b638</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_99035a9a2f3f81105cebd39df699b638">dd035a9a2f3f81105cebd39df699b64f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 16:07:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
